@@ -346,7 +346,7 @@
 - https://github.com/LLK/scratch-gui/blob/develop/LICENSE
 
 #### Seafile
-- AGPL v3
+- GPL
 - https://github.com/haiwen/seafile/blob/master/LICENSE.txt
 
 #### Smarty
